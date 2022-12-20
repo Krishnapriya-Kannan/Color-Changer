@@ -8,8 +8,8 @@ function ColorChange(color) {
 		<Box
 			className="box"
 			sx={{
-				width: 300,
 				background: color.bg,
+				width: 300,
 				height: 50,
 				border: 3,
 			}}

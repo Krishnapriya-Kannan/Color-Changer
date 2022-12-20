@@ -28,11 +28,10 @@ function Dropdown() {
 						<InputLabel id="demo-label"></InputLabel>
 						<Select
 						style={{
-							   
+								outline:0,
 								border:null,
 								boxShadow:'revert',
-								outline:0,
-							
+													
 						}}
 							labelId="demo-label"
 							id="demo"
